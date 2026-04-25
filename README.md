@@ -1,8 +1,9 @@
-# Auto-Wiggle-
+# Auto-Wiggle
 Tired of wiggling your sword? Just use this. 
 
 
 MAKE SURE TO DOWNLOAD: 
+
 pip install pydirectinput
 pip install keyboard
 
